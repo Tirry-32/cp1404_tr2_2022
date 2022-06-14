@@ -1,3 +1,7 @@
+"""
+Testing for functions
+"""
+
 def celsius_to_fahrenheit(celsius):
     """Convert celsius to fahrenheit"""
     return celsius * 1.8 + 32.0
