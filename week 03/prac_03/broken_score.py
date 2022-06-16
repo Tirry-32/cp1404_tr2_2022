@@ -4,7 +4,7 @@ CP1404 - Practical
 Broken program to determine score status
 """
 
-# TODO: Fix this!
+
 
 score = float(input("Enter score: "))
 if 90 <= score <= 100:
