@@ -1,3 +1,7 @@
+"""
+CP1404 Practical
+GUI program Box Layout
+"""
 from kivy.app import App
 from kivy.lang import Builder
 
